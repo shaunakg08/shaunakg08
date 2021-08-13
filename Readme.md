@@ -2,6 +2,9 @@
 <h2 align="left">A passionate coder and tech geek who is always eager to learn new things in the area of technology and AI.</h2>
 <hr /><br />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaunak0806&label=Profile%20views&color=0e75b6&style=flat" alt="shaunak0806" /> </p>
+
+
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=shaunak0806&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=shaunak0806&theme=monokai" alt="shaunak0806" /></a> </p>
 
 
