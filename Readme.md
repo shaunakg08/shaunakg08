@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **sguchhait0806@gmail.com**
 
-- 🌐 Visit my website [Shaunak Guchhait](https://www.shaunak0806.github.io)
+- 🌐 Visit my website [Shaunak Guchhait](https://shaunak0806.github.io)
 
 <br>
 <hr /><br />
