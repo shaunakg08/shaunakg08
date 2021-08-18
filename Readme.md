@@ -16,7 +16,7 @@
 <hr /><br />
 
 
-<img  align="right"  width="175px" src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80" alt="Coding">
+<img  align="right"   width="55%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Coding">
 
 - 🌱 I’m currently learning **Everything**
 
@@ -37,7 +37,14 @@
 <a href="https://twitter.com/shaunak0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaunak0806" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16436769/shaunak-guchhait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shaunak guchhait" height="30" width="40" /></a>
 <a href="https://instagram.com/shaunak.08s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaunak.08s" height="30" width="40" /></a>
-</p>
+    <!---------
+<img src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" height=15><a href="hhttps://www.quora.com/profile/Shaunak-Guchhait" height="300" width="80" ></a>
+    
+<img src="https://image.flaticon.com/icons/png/128/1384/1384060.png" height=15> <a href="https://www.youtube.com/channel/UCMHEDnlJDpMASoAXEbnfvpg" height="100" width="40"></a>
+<img src="https://cdn.worldvectorlogo.com/logos/patreon.svg" height=15><a href="https://www.patreon.com/user/creators?u=58475791" height="100" width="40" ></a>
+    
+<img src="https://image.flaticon.com/icons/png/128/105/105534.png" height=15> <a href="https://shaunak0806.github.io" height="60" width="40" ></a>
+</p> ====== -->
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
