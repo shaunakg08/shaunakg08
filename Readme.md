@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Shaunak Guchhait</h1>
-<h2 align="left">A passionate coder and tech geek who is always eager to learn new things in the area of technology and AI.</h2>
+<h2 align="left">A passionate coder and tech geek who is always eager to learn new things in the world of Technology.</h2>
 <hr>
 
 <img src="https://komarev.com/ghpvc/?username=shaunak0806&label=Profile%20views&color=0e75b6&style=flat" alt="shaunak0806" />
@@ -33,22 +33,23 @@
 <br>
 <hr /><br />
 <h1>About Me</h1>
-<p>I am Shaunak Guchhait, a student keen to know everything about technology. In this modern world people are advacing with technology at a very high rate and creating wonderful and useful things with their creative mind. Being a enthusiastic coder and tech geek, i also intend to contribute not great but small creations of my own.</p>
+<p>I am Shaunak Guchhait, a student keen to know and learn everything about technology. In this modern world people are advacing with technology at a very high rate and creating wonderful and useful things with their creative mind. Being a enthusiastic coder and tech geek, I also intend to contribute not great but small creations of my own. I also wish to help others like me who want to learn to code and create great things.</p>
 <br>
 <br>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shaunak0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaunak0806" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16436769/shaunak-guchhait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shaunak guchhait" height="30" width="40" /></a>
-<a href="https://instagram.com/shaunak.08s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaunak.08s" height="30" width="40" /></a>
-    <!---------
-<img src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" height=15><a href="hhttps://www.quora.com/profile/Shaunak-Guchhait" height="300" width="80" ></a>
-    
-<img src="https://image.flaticon.com/icons/png/128/1384/1384060.png" height=15> <a href="https://www.youtube.com/channel/UCMHEDnlJDpMASoAXEbnfvpg" height="100" width="40"></a>
-<img src="https://cdn.worldvectorlogo.com/logos/patreon.svg" height=15><a href="https://www.patreon.com/user/creators?u=58475791" height="100" width="40" ></a>
-    
-<img src="https://image.flaticon.com/icons/png/128/105/105534.png" height=15> <a href="https://shaunak0806.github.io" height="60" width="40" ></a>
-</p> ====== -->
+<a href="https://instagram.com/shaunak.08s" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" alt="shaunak.08s" height="30" width="40"></a>
+    <!----
+<a href="hhttps://www.quora.com/profile/Shaunak-Guchhait" target="blank" ><img src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" height="30" width="40"></a> 
+<a href="https://www.youtube.com/channel/UCMHEDnlJDpMASoAXEbnfvpg" target="blank"><img src="https://image.flaticon.com/icons/png/128/1384/1384060.png" height="30" width="25"></a>
+<a href="https://www.patreon.com/user/creators?u=58475791" target="blank"><img src="https://www.vectorlogo.zone/logos/patreon/patreon-tile.svg" height="30" width="40"></a>
+<a href="https://shaunak0806.github.io" height="30" width="40" target="blank"><img src="https://image.flaticon.com/icons/png/128/105/105534.png" height="30" width="40"></a>  -->
+</p> 
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
