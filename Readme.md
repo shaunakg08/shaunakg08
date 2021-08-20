@@ -22,7 +22,6 @@
 
 <img  align="right"   width="55%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Coding">
 
-- 🌱 I’m currently learning **Everything**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shaunak0806](https://github.com/Shaunak0806)
 
@@ -65,7 +64,8 @@
 
 
 
-
+<hr>
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>
 </p>
+<hr>
