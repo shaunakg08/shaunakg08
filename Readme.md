@@ -2,15 +2,7 @@
 
 <h2 align="left">A passionate coder and tech geek who is always eager to learn new things in the world of Technology.</h2>
 <hr>
-
-<img src="https://komarev.com/ghpvc/?username=shaunak0806&label=Profile%20views&color=0e75b6&style=flat" alt="shaunak0806" />
-<h2></h2>
-
-
-
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=shaunak0806&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=shaunak0806&theme=monokai" alt="shaunak0806" /></a> </p>
-
-
 
 <p align="center">
 <img alt="trophies" height=150 src="https://github-readme-stats.vercel.app/api?username=shaunak0806&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
@@ -20,10 +12,9 @@
 <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shaunak0806&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
+
 </p>
 <hr /><br />
-
-
 <img  align="right"   width="55%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Coding">
 
 
@@ -36,6 +27,8 @@
 <br>
 <br>
 <hr><br>
+
+
 <h1>About Me</h1>
 <p>I am Shaunak Guchhait, a student keen to know and learn everything about technology. In this modern world people are advacing with technology at a very high rate and creating wonderful and useful things with their creative mind. Being a enthusiastic coder and tech geek, I also intend to contribute not great but small creations of my own. I also wish to help others like me who want to learn to code and create great things.</p>
 <br>
