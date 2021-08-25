@@ -60,7 +60,7 @@
 
 
 <hr>
-<p align="center">
+<br align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>
-</p>
-<hr>
+
+
