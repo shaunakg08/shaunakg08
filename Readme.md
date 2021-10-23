@@ -9,7 +9,7 @@
 
 <img alt="stats and Languages" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunak0806&layout=compact&theme=radical&langs_count=10" /> 
 <img alt="My Activity Streak" src="http://github-readme-streak-stats.herokuapp.com/?user=Shaunak0806&theme=onedark" /><br>
-<img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shaunak0806&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
 </p>
 
 
