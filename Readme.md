@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shaunak0806](https://github.com/Shaunak0806)
 
-- 📫 How to reach me **sguchhait0806@gmail.com**
+- 📫 How to reach me **shaunakguchhait08@gmail.com**
 
 - 🌐 Visit my website [Shaunak Guchhait](https://shaunak0806.github.io)
 
