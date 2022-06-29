@@ -2,13 +2,13 @@
 
 <h2 align="left">A passionate coder and tech geek who is always eager to learn new things in the world of Technology.</h2>
 <hr>
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=shaunak0806&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=shaunak0806&theme=monokai" alt="shaunak0806" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=shaunakg08&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=shaunakg08&theme=monokai" alt="shaunakg08" /></a> </p>
 
 <p align="center">
-<img alt="trophies" height=150 src="https://github-readme-stats.vercel.app/api?username=shaunak0806&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
+<img alt="trophies" height=150 src="https://github-readme-stats.vercel.app/api?username=shaunakg08&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
 
-<img alt="stats and Languages" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunak0806&layout=compact&theme=radical&langs_count=10" /> 
-<img alt="My Activity Streak" src="http://github-readme-streak-stats.herokuapp.com/?user=Shaunak0806&theme=onedark" /><br>
+<img alt="stats and Languages" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunakg08&layout=compact&theme=radical&langs_count=10" /> 
+<img alt="My Activity Streak" src="http://github-readme-streak-stats.herokuapp.com/?user=shaunakg08&theme=onedark" /><br>
 
 </p>
 
@@ -18,11 +18,11 @@
 <img  align="right"   width="55%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Coding">
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shaunak0806](https://github.com/Shaunak0806)
+- 👨‍💻 All of my projects are available at [https://github.com/shaunakg08](https://github.com/shaunakg08)
 
 - 📫 How to reach me **shaunakguchhait08@gmail.com**
 
-- 🌐 Visit my website [Shaunak Guchhait](https://shaunak0806.github.io)
+- 🌐 Visit my website [Shaunak Guchhait](https://shaunakg08.github.io)
 
 <br>
 <br>
